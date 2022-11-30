@@ -23,5 +23,5 @@ If you dont have docker installed:
 1. pip install -r requirements.txt
 
 # Run script
-2. python gcp-upload.py
+2. python main.py
 ```
